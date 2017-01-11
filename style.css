@@ -38,3 +38,12 @@
         display: block;
       }
     }
+#profile{
+  width:250px;
+  height:160px;
+}
+body{
+  color:red;
+  background-color:#141a23
+;
+}
